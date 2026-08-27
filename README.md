@@ -1,3 +1,5 @@
+# Meu Primeiro Projeto Front-End
+
 ## Nome
 Luiza Emanuelli Castro
 
@@ -16,11 +18,6 @@ HTML
 CSS
 GitHub
 Depois de inserir as informações, salve as alterações realizando um commit.
-
-# meu-primeiro-projeto
-: Meu primeiro projeto de Programação Front-End
-
-# Meu Primeiro Projeto Front-End
 
 ## Sobre Mim
 Olá! Meu nome é Luiza Emanuelli Castro, tenho 16 anos e estou estudando desenvolvimento de sistemas integrado no ensino médio como curso técnico. Gosto de aprender novas tecnologias e resolver problemas usando a programação.

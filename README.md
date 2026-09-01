@@ -14,9 +14,9 @@ Aprender a utilizar o GitHub para armazenar,
 organizar e documentar projetos.
 
 ## Tecnologias
-HTML,
-CSS,
-GitHub
+*HTML,
+*CSS,
+*GitHub
 
 ## Sobre Mim
 Olá! Meu nome é Luiza Emanuelli Castro, tenho 16 anos e estou estudando desenvolvimento de sistemas integrado no ensino médio como curso técnico. Gosto de aprender novas tecnologias e resolver problemas usando a programação.

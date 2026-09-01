@@ -17,7 +17,6 @@ organizar e documentar projetos.
 HTML
 CSS
 GitHub
-Depois de inserir as informações, salve as alterações realizando um commit.
 
 ## Sobre Mim
 Olá! Meu nome é Luiza Emanuelli Castro, tenho 16 anos e estou estudando desenvolvimento de sistemas integrado no ensino médio como curso técnico. Gosto de aprender novas tecnologias e resolver problemas usando a programação.

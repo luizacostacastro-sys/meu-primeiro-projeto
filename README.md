@@ -14,8 +14,8 @@ Aprender a utilizar o GitHub para armazenar,
 organizar e documentar projetos.
 
 ## Tecnologias
-HTML
-CSS
+HTML,
+CSS,
 GitHub
 
 ## Sobre Mim
